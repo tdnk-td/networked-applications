@@ -2,11 +2,6 @@
 
 This repository contains a collection of my projects related to **Networked Applications**, implemented using both **Python** and **Java**. These projects demonstrate my understanding and proficiency in building applications that involve networking concepts such as client-server communication, APIs, and more.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Projects](#projects)
-
 ## Overview
 
 The repository showcases various networked application projects built in Python and Java. These projects focus on creating systems that communicate over networks, implementing various protocols, handling data transmission, and ensuring secure and efficient communication between systems.
